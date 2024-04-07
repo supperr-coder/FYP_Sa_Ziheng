@@ -10,6 +10,7 @@ This repository contains the relevant codes for the error models, an attempt to 
 - `Transformer_error_model_6780.ipynb`: Transformer error model prediction on item 6780 time series data found in the M5 dataset.
 - `Transformer_baseline_450.ipynb`: Baseline Transformer model prediction on 450-time series data found in the M5 dataset.
 - `Transformer_error_model_450.ipynb`: Transformer error model prediction on 450-time series data found in the M5 dataset.
+- `utils.py`: Contains the relevant preprocessing functions. 
 
 - `Final_results_analysis.ipynb`: Basic analysis as well as results of Hotelling’s T-squared statistic and Bonferroni Simultaneous Confidence Intervals on 450 time series data.
 
